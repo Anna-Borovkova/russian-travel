@@ -9,8 +9,7 @@
   background-size: cover;
   max-width: 1184px;
   min-height: 740px;
-  position: relative;
-}
+  }
 
 .cover:after {
   content: "";
