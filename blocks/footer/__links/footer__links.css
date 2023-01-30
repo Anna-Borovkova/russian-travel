@@ -1,0 +1,17 @@
+.footer__links {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+@media screen and (max-width: 700px) {
+  .footer__links {
+    padding-bottom: 32px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .footer__links {
+    padding-bottom: 32px;
+  }
+}

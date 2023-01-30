@@ -1,0 +1,21 @@
+.place__text_top {
+  padding: 35px 0 26px 0;
+}
+
+@media screen and (max-width: 1050px) {
+  .place__text_top {
+    padding: 36px 0 26px 0;
+  }
+}
+
+@media screen and (max-width: 790px) {
+  .place__text_top {
+    padding: 33px 0 26px 0;
+  }
+}
+
+@media screen and (max-width: 650px) {
+  .place__text_top {
+    padding: 32px 0 27px 0;
+  }
+}

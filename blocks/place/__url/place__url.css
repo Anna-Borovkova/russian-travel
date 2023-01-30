@@ -1,0 +1,24 @@
+.place__url {
+  padding: 0 0 12px 0;
+  margin: 0;
+  color: #aaaaaa;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1;
+  letter-spacing: 2px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@media screen and (max-width: 1050px) {
+  .place__url {
+    padding: 0 0 10px 0;
+  }
+}
+
+@media screen and (max-width: 650px) {
+  .place__url {
+    padding: 0 0 12px 0;
+  }
+}
