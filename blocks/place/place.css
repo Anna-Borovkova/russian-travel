@@ -1,14 +1,16 @@
 .place {
   margin: 0;
+  padding: 0;
+  list-style-type: none;
   display: grid;
   grid-template-areas:
     "title website"
     "img paragraph";
+
 }
 
 @media screen and (max-width: 650px) {
   .place {
-    margin: 0;
     display: grid;
     grid-template-areas:
       "title"
