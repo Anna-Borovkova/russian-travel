@@ -1,0 +1,9 @@
+.intro__element-text {
+  display: inline;
+  color: #ffffff;
+  font-style: normal;
+  font-size: 12px;
+  line-height: 18px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
